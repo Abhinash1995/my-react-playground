@@ -1,5 +1,6 @@
 import React from "react";
 import render from "react-dom"
+import Modal from "./component/Modal";
 import Todo from "./component/Todo";
 
 function App() {
